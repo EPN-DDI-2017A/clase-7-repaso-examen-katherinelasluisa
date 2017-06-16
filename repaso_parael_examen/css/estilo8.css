@@ -1,0 +1,22 @@
+.contenedor{
+	flex-wrap: wrap;
+    overflow: auto;
+	width: 1100px;
+	height: 500px;
+	border: 1px solid #BCB9B8;
+	background:#BCB9B8;
+	margin: 0 auto;	
+}
+
+.centro{
+	height: 450px;	
+	border: 2px white;
+	background:white;
+	margin: 30px 30px;
+}
+.letras{
+	margin-top: 20px;
+}
+.fa, .fa-chevron-right{
+	text-align: right;
+}

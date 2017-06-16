@@ -1,0 +1,24 @@
+.contenedor{
+	flex-wrap: wrap;
+    overflow: auto;
+	width: 1000px;
+	height: 600px;
+	border: 1px solid #BCB9B8;
+	background:#BCB9B8;
+	margin: 0 auto;	
+}
+
+.centro{
+	height: 450px;	
+	border: 2px white;
+	background:white;
+	margin: 50px 50px;
+}
+.row, .col-md-5{
+	text-align: center;
+	margin-top: 30px;
+}
+.row, .col-md-7{
+	text-align: left;
+	margin-top: 50px;
+}

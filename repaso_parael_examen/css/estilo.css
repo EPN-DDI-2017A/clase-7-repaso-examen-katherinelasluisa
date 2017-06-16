@@ -1,0 +1,40 @@
+/*.container{
+width: 800px;
+height: 3000px;
+}
+
+.clemo{
+	font-weight: 800px;
+	background: #FFDAB9;
+}
+
+.jumbotron{
+	background: #FFDAB9;
+	text-align: center;
+	height: 300px;
+	margin-top: 10px;
+}
+.navbar-brand{
+background: #FFDAB9;	
+}*/
+.navbar-brand{
+	color: blue;
+}
+.my-nav{
+	position: absolute;
+	width: 100%;
+	z-index: 999;
+	background: none;
+}
+.my-nav .navbar-nav a{
+	color: white;
+}
+.my-carousel{
+	position: absolute;
+	top: 0;
+}
+.header{
+	height: 400px;
+	width: 1300p;
+	margin-top: 50px 50px;
+}

@@ -1,0 +1,29 @@
+.contenedor{
+	flex-wrap: wrap;
+    overflow: auto;
+	width: 900px;
+	height: 1500px;
+	border: 1px solid #BCB9B8;
+	background:#BCB9B8;
+	margin: 0 auto;	
+}
+
+.centro{
+	height: 1350px;	
+	border: 2px solid white;
+	background:white;
+	margin: 50px 50px;
+}
+.letras{
+	margin-top: 20px;
+}
+.letras p{
+	width: 300px;
+}
+.boton1{
+	margin-left: 290px;
+}
+.card{
+	border:none;
+	margin: 40px;
+}

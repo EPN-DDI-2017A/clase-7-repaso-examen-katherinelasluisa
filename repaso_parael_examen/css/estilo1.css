@@ -1,0 +1,36 @@
+.contenedor{
+	flex-wrap: wrap;
+    overflow: auto;
+	width: 900px;
+	height: 1000px;
+	border: 1px solid #BCB9B8;
+	background:#BCB9B8;
+	margin: 0 auto;	
+}
+
+/*.centro{
+	margin-top: 60px;
+	height: 800px;	
+	border: 2px solid white;
+	background:white;
+	margin: 50px 50px;
+}*/
+.jumbotron{
+	background: #E1DCE1;
+	text-align: center;
+	height: 500px;
+	margin-top: 10px;
+	margin: 50px;
+}
+.my-nav{
+	position: absolute;
+	width: 750px;
+	z-index: 999;
+	background: none;
+}
+/*.my-nav .navbar-nav a{
+	color: white;
+}*/
+.abajo{
+	margin-top: 100px;
+}

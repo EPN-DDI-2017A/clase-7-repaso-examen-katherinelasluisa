@@ -1,0 +1,10 @@
+.bg-faded {
+    background-color: gray;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    margin-left: 35px;
+}
+.navbar-light .navbar-brand, .navbar-light .navbar-toggler {
+    color: white;
+}
